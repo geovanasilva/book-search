@@ -2,6 +2,11 @@
 
 This project aims to carry out a search for books from a public endpoint: [Google Book Search API](https://developers.google.com/books/docs/v1/getting_started), as well as using specific filters to optimize the search.
 
+## Preview (under construction)
+
+![image](https://user-images.githubusercontent.com/13040713/220770090-2f800379-0d64-4b39-a4b0-531d495bc530.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
